@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">data science and artificial intelligence student in Master's Degree</h3>
+<h3 align="center">Data Science and Artificial Intelligence Student in Master's Degree</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliabbasi2000&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbasi2000" /> </p>
 
