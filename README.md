@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Data Science and Artificial Intelligence Student in Master's Degree</h3>
+<h3 align="center">Master's student in Data Science and Artificial Intelligence with hands-on experience in various programming languages, with Python as my main focus. Skilled in deep learning, software engineering, and web application development. Passionate about leveraging AI to solve real-world problems and contribute to innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliabbasi2000&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbasi2000" /> </p>
 
